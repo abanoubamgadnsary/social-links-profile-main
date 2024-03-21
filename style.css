@@ -79,6 +79,7 @@ body {
   color: white;
   font-weight: 600;
   font-size: 14px;
+  text-decoration: none;
 }
 
 .social-links a:hover {
